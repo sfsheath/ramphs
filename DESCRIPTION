@@ -1,0 +1,8 @@
+Package: ramphs
+Title: Data for Roman Ampitheaters
+Version: 0.1
+Authors@R: "Sebastian Heath <sebastian.heath@nyu.edu> [aut, cre]"
+Description: What the package does (one paragraph)
+Depends: R (>= 3.1.2)
+License: CC0
+LazyData: true
