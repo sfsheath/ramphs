@@ -8,3 +8,9 @@ Install with:
 ```
 install_github('sfsheath/ramphs')
 ```
+
+Then:
+```
+data(ramphs, package = 'ramphs')
+ramphs$title 
+```
